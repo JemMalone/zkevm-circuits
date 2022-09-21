@@ -9,6 +9,13 @@ Check out the work in progress [specification](https://github.com/privacy-scalin
 
 To run the same tests as the CI, please use: `make test-all`.
 
+
+
+
+
+
+
+
 ## Running benchmarks
 
 There are currently two benchmarks to run in the workspace in regards to the circuits.
